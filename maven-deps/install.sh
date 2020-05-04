@@ -32,3 +32,5 @@ install_module org.eclipse.jface-3.6.2.M20110210{.pom,.jar,-sources.jar}
 install_module org.eclipse.osgi-3.6.2.R36x{.pom,.jar,-sources.jar}
 install_module org.eclipse.swtbot.junit4_x-2.0.5{.pom,.jar}
 install_module org.eclipse.swtbot.swt.finder-2.0.5{.pom,.jar}
+install_module win32-x86-3.6.1{.pom,.jar}
+install_module win32-x86_64-3.6.1{.pom,.jar}
