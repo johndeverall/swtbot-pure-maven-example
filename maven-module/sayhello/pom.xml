@@ -31,6 +31,13 @@
 	<dependencies>
 		<!-- Normally, we only use plain SWT for testing -->
 
+    <dependency>
+      <groupId>es.uca</groupId>
+      <artifactId>swt</artifactId>
+      <version>3.6.1</version>
+      <type>pom</type>
+    </dependency>
+
 		<dependency>
 			<groupId>org.eclipse.swt</groupId>
 			<artifactId>win32-x86_64</artifactId>
